@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{51C86F66-1015-45D8-A082-A90419169098}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleProject1/Pages/Index.cshtml">
+    <Files>
+      <File FileName="SampleProject1/Pages/Index.cshtml" Line="10" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleProject1" expanded="True">
+            <Node name="SampleProject1" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SampleProject1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
